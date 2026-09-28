@@ -1,7 +1,5 @@
 # Hi, I'm Michael Becker 👋
 
-💭 **Happy serving!**
-
 I'm Michael Becker, a developer who enjoys building practical software across the web, cloud, desktop, and automation spaces. I like turning ideas into useful products and exploring tools that make development more capable, reliable, and fun.
 
 ## 🛠️ Skills & Technologies
